@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rosenhos.github.io/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/app/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/assets/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/css/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/includes/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/item/sitemap.html.gz
+Sitemap: https://rosenhos.github.io/src/sitemap.html.gz
